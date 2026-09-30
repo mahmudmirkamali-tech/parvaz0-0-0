@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "PARVAZ",
+      "hasCanvas": false,
+      "bodyTextLen": 2035,
+      "bodyTextHash": "316768ca1dd21e2ce3d0bfd298c5bc39c9090de2c17f704adb6551cc299331b6",
+      "bodyTextPrefix": "پرش به محتوا PARVAZ صفحه اصلی پروژه‌ها سرمایه‌گذاری مشاوره بنیان",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "PARVAZ",
+      "hasCanvas": false,
+      "bodyTextLen": 1980,
+      "bodyTextHash": "c10902cd31d808938d9a5d83865afc45242ce7cc3eb23ad6349b6295526fbf17",
+      "bodyTextPrefix": "پرش به محتوا PARVAZ EN FOUNDER & VENTURE STUDIO PARVAZ بساز. تحل",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
